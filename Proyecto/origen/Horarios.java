@@ -9,7 +9,7 @@
  * @author Magister
  */
 public class Horarios {
-    int Fecha;
+    Date Fecha;
     int Hora;
     int Reserva;
 }
